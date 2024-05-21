@@ -1,8 +1,0 @@
-{
-  "name": "my-app",
-  "version": "5.0.0",
-  "homepage": "https://allenwasupan.github.io/Website/",
-  "dependencies": {
-    "gh-pages": "^6.1.1"
-  }
-}
